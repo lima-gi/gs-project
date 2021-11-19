@@ -1,6 +1,6 @@
 import React from 'react';
-import { Home } from './src/pages/Home';
+import AppStack from './src/AppStack';
 
-export default function App(){
-  return <Home/>
+export default function App() {
+  return <AppStack />
 }
